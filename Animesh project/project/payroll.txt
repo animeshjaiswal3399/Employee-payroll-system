@@ -1,0 +1,15 @@
+
+------------------------------------
+          EMPLOYEE PAYSLIP
+------------------------------------
+Employee ID     : m1
+Employee Name   : riya
+Basic Salary    : Rs. 60000.00
+Overtime Hours  : 5.0
+Overtime Amount : Rs. 1000.00
+Bonus           : Rs. 6000.00
+Gross Salary    : Rs. 67000.00
+PF Deduction    : Rs. 7200.00
+Tax Deduction   : Rs. 6700.00
+Net Salary      : Rs. 53100.00
+------------------------------------
